@@ -1,0 +1,55 @@
+html,
+body {
+  margin: 30px;
+}
+
+button.btn-html {
+  background-color: #ff7300ee;
+  border: transparent;
+  color: #000;
+}
+
+button.btn-html:hover {
+  background-color: #d15e00ee;
+}
+
+button.btn-js {
+  background-color: #ffff00;
+  border: transparent;
+  color: #000;
+}
+
+button.btn-js:hover {
+  background-color: #b6b605;
+}
+
+button.btn-git {
+  background-color: #e74f08ee;
+  border: transparent;
+  color: #f4f4f4;
+}
+
+button.btn-git:hover {
+  background-color: #c54306ee;
+}
+
+button.btn-bootstrap {
+  background-color: #7952b3;
+  border: transparent;
+  color: #f6fffa;
+}
+
+button.btn-bootstrap:hover {
+  background-color: #553a7e;
+}
+
+button.btn-angular {
+  background-color: #d6002f;
+  border: transparent;
+  color: #f6fffa;
+}
+
+button.btn-angular:hover {
+  background-color: #bd002e;
+}
+/*# sourceMappingURL=style.css.map */
